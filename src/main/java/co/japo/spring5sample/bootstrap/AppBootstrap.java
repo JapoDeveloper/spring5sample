@@ -5,9 +5,9 @@ import co.japo.spring5sample.domain.Book;
 import co.japo.spring5sample.domain.Publisher;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
-import co.japo.spring5sample.repository.AuthorRepository;
-import co.japo.spring5sample.repository.BookRepository;
-import co.japo.spring5sample.repository.PublisherRepository;
+import co.japo.spring5sample.repositories.AuthorRepository;
+import co.japo.spring5sample.repositories.BookRepository;
+import co.japo.spring5sample.repositories.PublisherRepository;
 import org.springframework.stereotype.Component;
 
 /**

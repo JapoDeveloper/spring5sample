@@ -1,4 +1,4 @@
-package co.japo.spring5sample.repository;
+package co.japo.spring5sample.repositories;
 
 import co.japo.spring5sample.domain.Book;
 import org.springframework.data.repository.CrudRepository;
